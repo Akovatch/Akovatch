@@ -24,6 +24,10 @@
 
 <br>
 
-## ⚡ Fun fact
+## ⚡ Fun facts
 
-I've been performing as an accordionist, solo and in bands, in the NYC area for over a decade 🪗
+🪗 I've been performing as an accordionist, solo and in bands, in the NYC area for over a decade: https://www.youtube.com/@TonyAccordionist
+
+🐦 I'm really into bird-watching and built a social app for birders called Meadowlark: 
+https://meadowlark-birding.com/
+
