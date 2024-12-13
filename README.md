@@ -28,6 +28,6 @@
 
 🪗 I am an accomplished accordionist and the creator of a 50-lesson instructional video series called "How to Play Piano Accordion" that has recieved over 479,000 views on Youtube: https://www.youtube.com/watch?v=YQUH3FNncqk
 
-🐦 I'm really into bird-watching; so much so that I built a social app for birders called Meadowlark: 
+🐦 I'm an avid birdwatcher; so much so that I built a social app for birders called Meadowlark: 
 https://meadowlark-birding.com/
 
