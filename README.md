@@ -26,8 +26,8 @@
 
 ## ⚡ Fun facts
 
-🪗 I've been performing as an accordionist, solo and in bands, in the NYC area for over a decade: https://www.youtube.com/@TonyAccordionist
+🪗 I am an accomplished accordionist and the creator of a 50-lesson instructional video series called "How to Play Piano Accordion" that has recieved over 479,000 views on Youtube: https://www.youtube.com/watch?v=YQUH3FNncqk
 
-🐦 I'm really into bird-watching and built a social app for birders called Meadowlark: 
+🐦 I'm really into bird-watching; so much so that I built a social app for birders called Meadowlark: 
 https://meadowlark-birding.com/
 
