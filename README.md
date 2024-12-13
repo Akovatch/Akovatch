@@ -1,6 +1,6 @@
 # Hi there, 👋 I'm Tony
 
-💻 I'm a full-stack engineer based in New York, NY. I am a lifelong learner who is deeply passionate about continuously expanding my skill set, tackling complex challenges, and leveraging the power of collaboration to build cutting-edge systems. 
+💻 I'm a full-stack engineer based in New York, NY. As a lifelong learner, I am deeply passionate about continuously expanding my skill set, tackling complex challenges, and leveraging the power of collaboration to build cutting-edge systems. 
 
 <br>
 
